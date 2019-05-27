@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "My first node project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iamsunilsharma/NodePractise.git"
+  },
+  "author": "Sunil Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iamsunilsharma/NodePractise/issues"
+  },
+  "homepage": "https://github.com/Iamsunilsharma/NodePractise#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
+}
